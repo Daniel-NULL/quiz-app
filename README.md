@@ -3,7 +3,7 @@
 一个**通用**的交互式刷题网页：任何学习资料只要转成题库 JSON，就能一键接入成为新题库。
 支持电脑与手机访问，深色模式，进度本地保存 + 跨设备同步。
 
-在线访问：https://3026749594qx-cmd.github.io/quiz-app/
+在线访问：https://daniel-null.github.io/quiz-app/
 
 当前已接入题库：
 
@@ -119,7 +119,7 @@ git push origin master
 
 等待约 1-2 分钟 Pages 重建，然后访问线上地址验证新题库可正常刷题。
 
-> 仓库：`3026749594qx-cmd/quiz-app`（master 分支，Pages 已配置为自动部署）。
+> 仓库：`Daniel-NULL/quiz-app`（master 分支，Pages 已配置为自动部署）。
 
 ---
 
