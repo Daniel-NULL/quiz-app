@@ -4,7 +4,7 @@
 const BANKS_INDEX_URL = './banks/index.json?v=20260924';
 const STORAGE_PREFIX = 'quizProgress_v2:';
 /* 题目纠错反馈：指向本仓库的 Issues 新建页（部署后可用） */
-const GITHUB_ISSUES_NEW_URL = 'https://github.com/3026749594qx-cmd/quiz-app/issues/new';
+const GITHUB_ISSUES_NEW_URL = 'https://github.com/Daniel-NULL/quiz-app/issues/new';
 
 const $ = (id) => document.getElementById(id);
 
