@@ -24,6 +24,12 @@
       "name": "3D预习作业",
       "count": 10,
       "questionsPath": "banks/three-d-preview/questions.json"
+    },
+    {
+      "id": "laser-preview",
+      "name": "激光预习作业",
+      "count": 8,
+      "questionsPath": "banks/laser-preview/questions.json"
     }
   ]
 }
