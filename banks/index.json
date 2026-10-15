@@ -30,6 +30,12 @@
       "name": "激光预习作业",
       "count": 8,
       "questionsPath": "banks/laser-preview/questions.json"
+    },
+    {
+      "id": "welding-preview",
+      "name": "焊接预习作业",
+      "count": 10,
+      "questionsPath": "banks/welding-preview/questions.json"
     }
   ]
 }
