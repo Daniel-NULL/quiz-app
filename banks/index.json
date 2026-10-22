@@ -36,6 +36,12 @@
       "name": "焊接预习作业",
       "count": 10,
       "questionsPath": "banks/welding-preview/questions.json"
+    },
+    {
+      "id": "casting-preview",
+      "name": "铸造预习作业",
+      "count": 10,
+      "questionsPath": "banks/casting-preview/questions.json"
     }
   ]
 }
