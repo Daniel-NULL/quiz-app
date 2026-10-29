@@ -45,7 +45,7 @@
     },
     {
       "id": "measurement-preview",
-      "name": "测量与三维扫描预习作业",
+      "name": "精测（预习作业）",
       "count": 10,
       "questionsPath": "banks/measurement-preview/questions.json"
     }
