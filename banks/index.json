@@ -48,6 +48,12 @@
       "name": "精测（预习作业）",
       "count": 10,
       "questionsPath": "banks/measurement-preview/questions.json"
+    },
+    {
+      "id": "lathe-preview",
+      "name": "车床预习作业",
+      "count": 12,
+      "questionsPath": "banks/lathe-preview/questions.json"
     }
   ]
 }
