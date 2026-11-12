@@ -54,6 +54,12 @@
       "name": "车床预习作业",
       "count": 12,
       "questionsPath": "banks/lathe-preview/questions.json"
+    },
+    {
+      "id": "benchwork-preview",
+      "name": "钳工预习作业",
+      "count": 12,
+      "questionsPath": "banks/benchwork-preview/questions.json"
     }
   ]
 }
