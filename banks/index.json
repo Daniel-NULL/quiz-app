@@ -60,6 +60,12 @@
       "name": "钳工预习作业",
       "count": 12,
       "questionsPath": "banks/benchwork-preview/questions.json"
+    },
+    {
+      "id": "milling-preview",
+      "name": "数铣预习作业",
+      "count": 11,
+      "questionsPath": "banks/milling-preview/questions.json"
     }
   ]
 }
