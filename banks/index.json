@@ -66,6 +66,12 @@
       "name": "数铣预习作业",
       "count": 11,
       "questionsPath": "banks/milling-preview/questions.json"
+    },
+    {
+      "id": "cnc-lathe-preview",
+      "name": "数车预习作业",
+      "count": 11,
+      "questionsPath": "banks/cnc-lathe-preview/questions.json"
     }
   ]
 }
